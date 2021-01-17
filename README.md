@@ -27,5 +27,7 @@ README
 		Contains all source code for creating the phone application and a readme detailing the contents of the directory further.
 	./web_files
 		Contains all source code files relevant to the visualization website and database.
-![Image of APP](https://github.com/manhimf/CIS-422-Project/blob/main/image/APP%20interface.png)
-![Image of web](https://github.com/manhimf/CIS-422-Project/blob/main/image/web.png)
+
+APP interface | web interface
+------------ | -------------
+![Image of APP](https://github.com/manhimf/CIS-422-Project/blob/main/image/APP%20interface.png)| ![Image of web](https://github.com/manhimf/CIS-422-Project/blob/main/image/web.png)
