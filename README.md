@@ -28,3 +28,4 @@ README
 	./web_files
 		Contains all source code files relevant to the visualization website and database.
 ![Image of APP](https://github.com/manhimf/CIS-422-Project/blob/main/image/APP%20interface.png)
+![Image of web](https://github.com/manhimf/CIS-422-Project/blob/main/image/web.png)
